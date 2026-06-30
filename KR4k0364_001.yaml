@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0364/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蕭子雲晉書姚略時有賀僧者不知何人自云遊歷五郡時人號為賀五郡齊戒奉道為百姓說吉凶略死泓立僧謂泓曰宜潔掃一馬廄開屋設大柳有異馬其大非常自遠來天所送矣御覽三百五十九引蕭子雲晉史草案蕭子顯書稱晉史草亦有稱蕭景暢晉史草子雲字景陽其混稱自宜明帝以太常桓榮為五更躬式其閭親行養老之禮御覽四百七十四
+  hash: sha256:d1b1ab2f7083dcbb611ddbff341f376664c9ca99226bda1b3108fd9d17a8eb2c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0364_CHANT_001-1a.1-h}
+metadata:
+  title: 蕭子雲晉書一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0364.xml
+hash: sha256:93920702cda186b78d8fe7a2df38119f707dcae0f3bdda91934c28e999f9da74

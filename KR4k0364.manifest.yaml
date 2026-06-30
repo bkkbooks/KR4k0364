@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0364/v1
+canonical_location: https://kanripo.org/bkk/KR4k0364/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蕭子雲晉書一卷
+  identifiers:
+    krp: KR4k0364
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0364.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0364_001.yaml, hash: 'sha256:93920702cda186b78d8fe7a2df38119f707dcae0f3bdda91934c28e999f9da74'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0364_001.markers.yaml, hash: 'sha256:d54503ba3475c5006974f424b371a92396c13ffa75b012592433e70018ea5358'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0364_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 141
+  label: 蕭子雲晉書
+  type: section
+  level: 1
+hash: sha256:ee64923b8a4db8a43adf804e5417e2fbe2d3b6cbd83cf4faae0f17ef7cc199a2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
